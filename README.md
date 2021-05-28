@@ -2,7 +2,7 @@
 
 Building Services and Faciltes Management 
 
-
+--------
 
 
 
@@ -15,13 +15,15 @@ Airconditioning
 
 Water Services
 
-
+--------
 
 dean@deanforbes.com
 
 07906948725
 
+--------
+
+Kadoma LTD 
 
 
-Kadoma LTD Company
 Company number 13245043
